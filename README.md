@@ -15,7 +15,7 @@
 ## Pre-Trip Costs
 | Item | Cost | Running Total |
 |------|------|---------------|
-| Round-trip flights RIC→Japan | $2,709 | $2,709 |
+| [Round-trip flights RIC→Japan](https://www.google.com/travel/flights/booking?tfs=CBwQAhphEgoyMDI2LTA1LTEwIiAKA1JJQxIKMjAyNi0wNS0xMBoDSUFEKgJVQTIENDMxMCIfCgNJQUQSCjIwMjYtMDUtMTAaA0hORCoCVUEyAzgwM2oHCAESA1JJQ3IHCAESA0hORBphEgoyMDI2LTA1LTE3Ih8KA0hORBIKMjAyNi0wNS0xNxoDRVdSKgJVQTIDMTMwIiAKA0VXUhIKMjAyNi0wNS0xNxoDUklDKgJVQTIENDE5MWoHCAESA0hORHIHCAESA1JJQ0ABQAFIAXABggELCP___________wGYAQE&tfu=CmhDalJJWmtKVVJWVmpNak54ZURSQlFYQlVPV2RDUnkwdExTMHRMUzB0TFhaM2VXUXlNMEZCUVVGQlIyazRiVlEwVG5STFRIZEJFZ0V3R2dzSWhyWVFFQUlhQTFWVFJEZ1hjSWEyRUE9PQ&hl=en&gl=us&curr=USD) | $2,709 | $2,709 |
 | **Remaining for Japan expenses** | **$5,291** | **$2,709** |
 
 ---
